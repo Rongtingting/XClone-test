@@ -38,7 +38,6 @@ For further information visit `xclone.org <https://xlearning.readthedocs.io/en/l
 
    about
    installation
-   api
    release
    references
 
