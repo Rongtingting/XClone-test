@@ -1,6 +1,6 @@
 """
 xclone - Inference of clonal Copy Number Variation in single cells
-See: https://github.com/single-cell-genetics/XClone
+See: https://github.com/Rongtingting/XClone
 """
 
 # Always prefer setuptools over distutils
@@ -37,7 +37,7 @@ setup(
     long_description=long_description,
 
     # The project's main homepage.
-    url='https://github.com/single-cell-genetics/XClone',
+    url='https://github.com/Rongtingting/XClone',
 
     # Author details
     author='Rongting Huang',
