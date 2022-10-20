@@ -4,22 +4,23 @@ Installation
 Preprocessing via xcltk 
 -----------------------
 
-xcltk is a toolkit for XClone preprocessing.
-xcltk is avaliable through pypi. To install, type the following command line, and add -U for upgrading::
+xcltk is a toolkit for XClone count generation. 
+We recommend to use xcltk_ Read depth count matrix and alllic count matrix.
+xcltk is avaliable through pypi. To install, type the following command line, and add -U for upgrading ::
 
-pip install -U xcltk
+    pip install -U xcltk
 
 Alternatively, you can install from this GitHub repository for latest (often development) version by following command line ::
 
-pip install -U git+https://github.com/hxj5/xcltk
+    pip install -U git+https://github.com/hxj5/xcltk
 
 
 
-Main Module
------------
+Main Module XClone
+------------------
 
 XClone requires Python 3.7 or later. 
-We recommend to use Anaconda_ environment for version control and to avoid potential conflicts::
+We recommend to use Anaconda_ environment for version control and to avoid potential conflicts ::
 
     conda create -n xclone python=3.7
     conda activate xclone
@@ -44,5 +45,6 @@ Most required dependencies are automatically installed, e.g.
 If you run into any issues or errors are raised during the installation process, feel free to contact us at GitHub_.
 
 .. _Anaconda: https://www.anaconda.com/
+.. _xcltk: https://pypi.org/project/xcltk/
 .. _GitHub: https://github.com/single-cell-genetics/XClone
 .. _`Getting Started`: getting_started

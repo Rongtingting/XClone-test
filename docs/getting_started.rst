@@ -5,17 +5,14 @@ Public Datasets
 ---------------
 
 Examples of XClone and steps for reproducible results are provided in Jupyter Notebook under notebooks_ folder. 
-For start, please refer to records analyzing `TNBC1`_ and `BCH869`_ datasets.
+For start, please refer to records analyzing `TNBC1`_ and `BCH869`_ datasets step by step.
+
 
 XClone on GX109
----------------------------
+----------------
 
-XClone provides an integrated function for CNV analysis by default whilst specific configurations might need to be adjusted accordingly.
-
-# 1. Import package::
-
-    import xclone as xcl
-
+XClone also provides integrated functions (RDR BAF and Combination) for CNV analysis by default 
+whilst specific configurations might need to be adjusted accordingly.
 
 
 
