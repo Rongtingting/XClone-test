@@ -7,7 +7,7 @@ XClone integrates expression levels and allelic balance to detect haplotype-awar
 XClone algorithm
 ----------------
 .. image:: ./image/XClone_overview.png
-   :width: 300px
+   :width: 800px
    :align: center
 
 
