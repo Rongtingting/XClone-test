@@ -46,6 +46,11 @@ We recommend to use Anaconda environment for version control and to avoid potent
     conda create -n xclone python=3.7
     conda activate xclone
 
-XClone package can be installed  directly from GitHub repository (for development version)::
+XClone package can be conveniently installed via PyPI::
+
+    pip install xclone
+
+
+or directly from GitHub repository (for development version)::
 
     pip install git+https://github.com/single-cell-genetics/XClone

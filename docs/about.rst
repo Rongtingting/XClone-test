@@ -25,7 +25,8 @@ XClone BAF module
 ~~~~~~~~~~~~~~~~~
 
 In the BAF module, we introduce a three-step phasing strategy to aggregate allelic features: 
-- from one SNP to multiple SNPs on a gene 
+
+- from one SNP to multiple SNPs on a gene
 - from a single gene to a mega gene 
 - from a mega gene to a whole chromosome arm
 
