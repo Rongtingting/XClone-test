@@ -63,5 +63,5 @@ For further information visit `xclone.org <https://xclone1.readthedocs.io/en/lat
    :hidden:
 
    getting_started
-   TNBC1_XClone_demo_v1
-   BCH869_XClone_demo_v1
+   TNBC1_XClone_demo_v2
+   BCH869_XClone_demo_v2
