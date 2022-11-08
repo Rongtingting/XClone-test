@@ -1,3 +1,4 @@
+======
 XClone
 ======
 
@@ -5,7 +6,8 @@ XClone is implementated on Python 3.
 XClone integrates expression levels and allelic balance to detect haplotype-aware CNVs and reconstruct tumour clonal substructure from scRNA-seq data.
 
 XClone algorithm
-----------------
+================
+
 .. image:: ./image/XClone_overview.png
    :width: 800px
    :align: center
@@ -16,13 +18,13 @@ where each of the modules has its own CNV states and noise models for likelihood
 
 
 XClone RDR module
-~~~~~~~~~~~~~~~~~
+-----------------
 
 In the RDR module, XClone considers three CNV states about the absolute copy numbers: copy loss, copy neutral and copy gain. 
 It takes the raw read or UMI counts as input and models the noise via a negative-binomial distribution.
 
 XClone BAF module
-~~~~~~~~~~~~~~~~~
+-----------------
 
 In the BAF module, we introduce a three-step phasing strategy to aggregate allelic features: 
 

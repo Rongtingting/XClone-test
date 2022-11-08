@@ -19,7 +19,8 @@ XClone: detection of allele-specific subclonal copy number variations in single 
 
 
 XClone's key features
-^^^^^^^^^^^^^^^^^^^^^^^^^
+---------------------
+
 * XClone has two modules of information: the read depth ratio (RDR) module and the B-allele frequency (BAF) module, where each of the modules has its own CNV states and noise models for likelihood function. 
 
 * XClone introduces two orthogonal methods for smoothing the probabilities of assigning CNV states for each feature in each cell.
@@ -28,16 +29,17 @@ XClone's key features
 
 
 Latest news
-^^^^^^^^^^^
+-----------
 
 
 References
-^^^^^^^^^^
+----------
 
 
 
 Support
-^^^^^^^
+-------
+
 Found a bug or would like to see a feature implemented? Feel free to submit an
 `issue <https://github.com/single-cell-genetics/XClone/issues/new>`_.
 Have a question or would like to start a new discussion? Head over to
@@ -63,5 +65,6 @@ For further information visit `xclone.org <https://xclone1.readthedocs.io/en/lat
    :hidden:
 
    getting_started
+   preprocessing
    TNBC1_XClone_demo_v2
    BCH869_XClone_demo_v2

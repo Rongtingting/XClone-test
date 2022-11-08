@@ -1,21 +1,6 @@
 Installation
 ============
 
-Preprocessing via xcltk 
------------------------
-
-xcltk is a toolkit for XClone count generation. 
-We recommend to use xcltk_ Read depth count matrix and alllic count matrix.
-xcltk is avaliable through pypi. To install, type the following command line, and add -U for upgrading ::
-
-    pip install -U xcltk
-
-Alternatively, you can install from this GitHub repository for latest (often development) version by following command line ::
-
-    pip install -U git+https://github.com/hxj5/xcltk
-
-
-
 Main Module XClone
 ------------------
 
@@ -33,6 +18,12 @@ or directly from GitHub repository (for development version)::
 
     pip install git+https://github.com/single-cell-genetics/XClone
 
+
+Preprocessing tool xcltk
+------------------------
+
+For recommeded preprocessing tool `xcltk`, refer to preprocessing page, :ref:`Tool installation <xcltk installation>`.
+
 Dependencies
 ------------
 
@@ -48,3 +39,4 @@ If you run into any issues or errors are raised during the installation process,
 .. _xcltk: https://pypi.org/project/xcltk/
 .. _GitHub: https://github.com/single-cell-genetics/XClone
 .. _`Getting Started`: getting_started
+.. _`Prepare data and preprocessing`: preprocessing
