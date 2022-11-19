@@ -1,8 +1,9 @@
+============
 Installation
 ============
 
 Main Module XClone
-------------------
+==================
 
 XClone requires Python 3.7 or later. 
 We recommend to use Anaconda_ environment for version control and to avoid potential conflicts ::
@@ -20,12 +21,12 @@ or directly from GitHub repository (for development version)::
 
 
 Preprocessing tool xcltk
-------------------------
+=========================
 
 For recommeded preprocessing tool `xcltk`, refer to preprocessing page, :ref:`Tool installation <xcltk installation>`.
 
 Dependencies
-------------
+=============
 
 Most required dependencies are automatically installed, e.g.
 
